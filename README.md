@@ -1,5 +1,9 @@
 # Cancer
 
+# Preprocesseur : preprocessing.py
+# Classifieur : classifieur.py
+# Visualisation : ReadMe.ipynb
+
 # Contribution de chaque binôme:
 # Preprocessing :
 # - Code preprocessing
