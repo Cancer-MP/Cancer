@@ -1,6 +1,6 @@
 # Cancer
 
-# Preprocesseur : preprocessing.py
+# Preprocesseur : preprocesseur.py
 # Classifieur : classifieur.py
 # Visualisation : ReadMe.ipynb
 
